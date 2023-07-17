@@ -1,0 +1,49 @@
+.article1 {
+  background-color: rgb(250, 250, 250);
+  text-align: left;
+  justify-content: center;
+  margin-left: 3cm;
+  margin-right: 3cm;
+  padding-top: 1cm;
+  padding-bottom: 2cm;
+  padding-left: 4cm;
+  padding-right: 8cm;
+}
+
+.top a {
+	background: rgb(8, 253, 0);
+	color: white;
+	padding: 15px 30px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px;
+	width: 70px;
+}
+
+figcaption{
+    text-align: match-parent;
+    font-family: verdana;
+    font-size: 10px;
+    margin-left: 5cm;
+  }
+
+.img2 {
+    width: 30px;
+    height: 30px;
+}
+
+.pdf {
+  width: 15px;
+  height: 30px;
+}
+
+.map {
+	width: 500px;
+	height: 300px;
+	border: 0;
+	text-align: center;
+}
+
+.image {
+	width: 300px;
+}
